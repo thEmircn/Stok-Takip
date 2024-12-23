@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|c:\\users\\kullan\u0131c\u0131\\desktop\\gelsin paralar\\ali \u00E7ay\u0131r\\stok_takip_sistemi\\satissayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|solutionrelative:stok_takip_sistemi\\satissayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\stok_takip_sistemi\\satissayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|solutionrelative:stok_takip_sistemi\\satissayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|c:\\users\\kullan\u0131c\u0131\\desktop\\gelsin paralar\\ali \u00E7ay\u0131r\\stok_takip_sistemi\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B185E02E-4FBF-470E-B196-5F3B1A8E4B20}|Stok_Takip_Sistemi\\StokTakipSistemi.csproj|solutionrelative:stok_takip_sistemi\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "anaMenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\anaMenu.cs",
+              "RelativeDocumentMoniker": "Stok_Takip_Sistemi\\anaMenu.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\anaMenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Stok_Takip_Sistemi\\anaMenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:29:47.718Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "satisSayfas\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\satisSayfas\u0131.cs",
+              "RelativeDocumentMoniker": "Stok_Takip_Sistemi\\satisSayfas\u0131.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\satisSayfas\u0131.cs*",
+              "RelativeToolTip": "Stok_Takip_Sistemi\\satisSayfas\u0131.cs*",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAQwMsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:06:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "satisSayfas\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\satisSayfas\u0131.cs",
+              "RelativeDocumentMoniker": "Stok_Takip_Sistemi\\satisSayfas\u0131.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Ali \u00C7ay\u0131r\\Stok_Takip_Sistemi\\satisSayfas\u0131.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Stok_Takip_Sistemi\\satisSayfas\u0131.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:05:19.162Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
